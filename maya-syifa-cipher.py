@@ -120,7 +120,7 @@ def update_fields(event=None):
 
 # === GUI utama ===
 root = tk.Tk()
-root.title("Cipher GUI - Mister Sopian")
+root.title("Cipher Klasik Caesar-Affine")
 root.geometry("520x540")
 root.resizable(False, False)
 
